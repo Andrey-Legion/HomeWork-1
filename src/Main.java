@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("SkyPro проект");
+        System.out.println("SkyPro Project");
     }
 }
